@@ -2,7 +2,7 @@
 ##	Sobre el projecte
 Aquest projecte és la meva primera demo en Github ## Contribuidors
 ## Contrubidors
-Daniel Iuga - @danieliuga
+Dániel Iuga - @danieliuga / Hugo Duran - @22hduran
 ## Contacte
 César Rodríguez - 22crodriguez@ibadia.cat
 <br/>
